@@ -39,3 +39,4 @@ if __name__ == '__main__':
 
 ## <ins>Output<ins>
 
+![Colored Output](static/formatter_output.png?raw=true)
